@@ -1,0 +1,6 @@
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\obj\x64\Release\minidump.csprojAssemblyReference.cache
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\bin\x64\Release\minidump.exe.config
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\bin\x64\Release\minidump.exe
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\bin\x64\Release\minidump.pdb
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\obj\x64\Release\minidump.exe
+C:\Users\offsec.CORP1.000\Desktop\minidump\minidump\obj\x64\Release\minidump.pdb
